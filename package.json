@@ -41,7 +41,8 @@
     "@types/jest": "^21.1.8",
     "@types/node": "^8.0.55",
     "@types/react": "^16.0.27",
-    "@types/react-dom": "^16.0.3"
+    "@types/react-dom": "^16.0.3",
+    "to-string-loader": "^1.1.5"
   },
   "scripts": {
     "start": "node scripts/start.js",
